@@ -84,7 +84,7 @@ except ImportError:
 class PyTest(TestCommand):
     def finalize_options(self):
         TestCommand.finalize_options(self)
-        self.test_args = ['packagename/tests']
+        self.test_args = ['testrepo/tests']
         self.test_suite = True
 
     def run_tests(self):
