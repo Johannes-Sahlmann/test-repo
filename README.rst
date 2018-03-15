@@ -16,16 +16,6 @@ You can replace them with the badges for your package when testing, docs, and co
     :target: https://api.travis-ci.org/Johannes-Sahlmann/test-repo
     :alt: Travis Status
 
-..
-.. image:: https://readthedocs.org/projects/stsci-package-template/badge/?version=latest
-    :target: https://readthedocs.org/projects/stsci-package-template/?badge=latest
-    :alt: Documentation Status
-
-..
-.. image:: https://coveralls.io/repos/github/spacetelescope/stsci-package-template/badge.svg?branch=master
-    :target: https://coveralls.io/github/spacetelescope/stsci-package-template?branch=master
-    :alt: Test Coverage Status
-
 
 Installation
 ------------
