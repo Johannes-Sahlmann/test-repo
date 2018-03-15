@@ -17,6 +17,15 @@ You can replace them with the badges for your package when testing, docs, and co
     :alt: Travis Status
 
 
+.. image:: https://readthedocs.org/projects/testrepo-jsa/badge/?version=latest
+    :target: https://readthedocs.org/projects/testrepo-jsa/?badge=latest
+    :alt: Documentation Status
+
+.. image:: https://coveralls.io/github/Johannes-Sahlmann/testrepo/badge.svg?branch=master
+    :target: https://coveralls.io/github/Johannes-Sahlmann/testrepo?branch=master
+    :alt: Test Coverage Status
+
+
 Installation
 ------------
 Give an example of how to install this package
